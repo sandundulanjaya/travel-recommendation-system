@@ -1,0 +1,38 @@
+{
+  "beach": [
+    {
+      "name": "Sydney, Australia",
+      "image": "images/sydney.jpg",
+      "description": "A beautiful coastal city with beaches and landmarks."
+    },
+    {
+      "name": "Bali, Indonesia",
+      "image": "images/bali.jpg",
+      "description": "A tropical paradise with stunning beaches."
+    }
+  ],
+  "temple": [
+    {
+      "name": "Angkor Wat, Cambodia",
+      "image": "images/angkor.jpg",
+      "description": "World-famous ancient temple complex."
+    },
+    {
+      "name": "Golden Temple, India",
+      "image": "images/golden.jpg",
+      "description": "A sacred Sikh temple with spiritual beauty."
+    }
+  ],
+  "country": [
+    {
+      "name": "Japan",
+      "image": "images/japan.jpg",
+      "description": "Land of tradition, technology, and cherry blossoms."
+    },
+    {
+      "name": "Brazil",
+      "image": "images/brazil.jpg",
+      "description": "Vibrant culture, rainforests, and beaches."
+    }
+  ]
+}
